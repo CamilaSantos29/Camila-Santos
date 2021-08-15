@@ -1,16 +1,29 @@
-### Hi there 👋
+Oláááá, eu sou Camila Santos 👋
 
-<!--
-**CamilaSantos29/CamilaSantos29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as a Tech Recruiter
+- 🌱 I’m currently learning JavaScript and Java
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/CamilaSantos29">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilaSantos29&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaSantos29&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+  
+#### Estou estudando:
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="Gif-App-Developer" width="250" src="https://user-images.githubusercontent.com/88860081/129482195-66030814-527a-46b7-a09d-780ca3626f4a.gif">
+</div>
+    
+   ##
+  
+  <div> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.linkedin.com/in/camila-o-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+ 
+</div>
+
+
