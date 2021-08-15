@@ -1,6 +1,6 @@
-Hello world!!!!👋🏾🌏👸🏾
+<b>Hello world!!!!</b>👋🏾🌏👸🏾
 
-- 🔭 I’m currently working as a Tech Recruiter
+- 🔭 <b>I’m currently working as a Tech Recruiter</b>
 
 <div>
   <a href="https://github.com/CamilaSantos29">
