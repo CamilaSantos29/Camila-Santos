@@ -1,6 +1,6 @@
-<b>Hello world!!!!</b>👋🏾🌏👸🏾
+<h1> <b>Hello world!!!!</b>👋🏾🌏👸🏾</h1>
 
-- 🔭 <b>I’m currently working as a Tech Recruiter</b>
+<h3> 🔭 <b>I’m currently working as a Tech Recruiter</b> </h3>
 
 <div>
   <a href="https://github.com/CamilaSantos29">
@@ -9,7 +9,7 @@
 </div>
   
   
-#### I'm currently learning: 💡
+ #### <h3>💡 I'm currently learning: </h3>
   <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
