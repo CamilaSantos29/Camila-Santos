@@ -1,4 +1,4 @@
-Hello world!!!! 👋🌏
+Hello world!!!!👋🏾🌏
 
 - 🔭 I’m currently working as a Tech Recruiter
 
