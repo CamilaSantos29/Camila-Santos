@@ -9,7 +9,7 @@ Hello world!!!!👋🏾🌏👸🏾
 </div>
   
   
-#### I'm currently learning:
+#### I'm currently learning: 💡
   <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
