@@ -1,4 +1,4 @@
-Oláááá, eu sou Camila Santos 👋
+Oláááá, eu sou Camila 👋
 
 - 🔭 I’m currently working as a Tech Recruiter
 
