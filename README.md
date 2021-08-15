@@ -1,7 +1,6 @@
 Oláááá, eu sou Camila Santos 👋
 
 - 🔭 I’m currently working as a Tech Recruiter
-- 🌱 I’m currently learning JavaScript and Java
 
 <div>
   <a href="https://github.com/CamilaSantos29">
