@@ -1,6 +1,6 @@
 <h1> <b>Hello world!!!!</b>👋🏾🌏👸🏾</h1>
 
-<h3> 🔭 <b>I’m currently working as a QA Trainee</b> </h3>
+<h3> 🔭 <b>I’m currently working as a QA Analyst Jr </b> </h3>
 
 <div>
   <a href="https://github.com/CamilaSantos29">
